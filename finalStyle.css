@@ -1,0 +1,38 @@
+html
+{
+  font-family: Helvetica;
+  background-color: #16232E;
+  color: #CFCFCF;
+}
+
+h1
+{
+  text-align: center;
+  color: BFBFBF;
+}
+
+
+
+#prev
+{
+  position: static;
+  float: left;
+}
+
+#next
+{
+  position: static;
+  float: right;
+}
+
+#output
+{
+  float: center;
+  font-size: 1.5em;
+}
+
+footer
+{
+  position: absolute;
+  bottom: 8px;
+}
